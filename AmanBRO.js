@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="business-competition-about-automotive.html"}
-if(x=="2"){xxx="things-to-look-in-residential-property.html"}
-if(x=="3"){xxx="marketing-strategy-for-property-business.html"}
-if(x=="4"){xxx="successfully-manage-your-own-hotel.html"}
-if(x=="5"){xxx="understanding-business-you-can-manage.html"}a_to_ve[i].href="https://lewatsinibro.blogspot.com/2017/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="mesothelioma-lawyer.html"}
+if(x=="2"){xxx="understand-your-cancer-diagnosis.html"}
+if(x=="3"){xxx="mesothelioma-benign-or-malignant.html"}
+if(x=="4"){xxx="claiming-compensation-for-mesothelioma.html"}
+if(x=="5"){xxx="mesothelioma-compensation.html"}a_to_ve[i].href="https://lewatsinibro.blogspot.com/2017/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
